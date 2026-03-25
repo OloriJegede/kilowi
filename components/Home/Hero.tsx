@@ -25,7 +25,7 @@ const Hero = () => {
               of laughter. If you love games, culture, and a little pressure,
               this one is for you.
             </div>
-            <div className="flex-col md:flex justify-center md:justify-start items-center space-x-5 pt-4">
+            <div className="flex-col md:flex-row justify-center md:justify-start items-center space-x-5 pt-4">
               <Button
                 asChild
                 className="bg-[#006200] px-14 py-5 rounded-[8px] montserrat-semibold text-white"

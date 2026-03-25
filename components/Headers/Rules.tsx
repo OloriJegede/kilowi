@@ -17,7 +17,7 @@ const Rules = () => {
           Want to play KÍLOWÍ like a pro? Check out the rules and get ready to
           think fast, speak Yoruba quicker, and learn more along the way
         </div>
-        <div className="flex-col md:flex justify-center items-center space-x-3 mb-6">
+        <div className="md:flex md:justify-center items-center space-x-3 mb-6">
           <Button asChild className="montserrat-semibold px-6 bg-[#3433CC]">
             <Link href={`/rules`}>See How to Play</Link>
           </Button>
